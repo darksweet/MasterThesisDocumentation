@@ -44,6 +44,6 @@ Environment Outside the simulated exhibition space.
 
 [Recording of Physical presentation and a simulation of and within](https://youtu.be/rm7lQ6My8Mw)    
 
-[Full documentation of the project.](https://github.com/darksweet/MasterThesisDocumentation/blob/main/DocumentationImages/PDF/hl-tosimulatethepresentationofsimulations.pdf)
+[Full documentation of the project.](https://github.com/darksweet/MasterThesisDocumentation/blob/main/PDF/hl-tosimulatethepresentationofsimulations.pdf)
 
-[Written part of the thesis](https://github.com/darksweet/MasterThesisDocumentation/blob/main/DocumentationImages/PDF/hl-simulatingthepresentationofthesimulated.pdf)
+[Written part of the thesis](https://github.com/darksweet/MasterThesisDocumentation/blob/main/PDF/hl-simulatingthepresentationofthesimulated.pdf)
