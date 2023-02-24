@@ -1,4 +1,4 @@
-# MasterThesisDocumentation
+# MasterThesisDocumentation Lin
 
 ### Images and PDF files for my thesis documentation.
 
